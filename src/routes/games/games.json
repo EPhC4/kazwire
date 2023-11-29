@@ -1,18 +1,29 @@
 {
-    "games": [
-        {
-            "description": "2048 is a single-player sliding block puzzle game designed by Italian web developer Gabriele Cirulli.",
-            "developer": "Gabriele Cirulli",
-            "id": "2048",
-            "image": "2048.png",
-            "name": "2048",
-            "platform": "Mobile",
-            "releaseDate": "?",
-            "tags": [
-                "casual",
-                "strategy"
-            ]
-        },
+   
+	"games": [
+		{
+			"description": "Description of the game",
+			"developer": "Developer of the game",
+			"id": "ep",
+			"image": "ep.png",
+			"name": "Title Case: Name of the Game",
+			"embedURL": "https://coolmathgames.com", // optional
+			"popular": true, // optional
+			"tags": [
+				"action",
+				"adventure",
+				"casual",
+				"indie",
+				"multiplayer",
+				"racing",
+				"rpg",
+				"simulation",
+				"sports",
+				"strategy"
+			]
+		}
+	]
+}
         {
             "description": "A Dark Room is a text-based adventure game where you have to survive in a dark room. The game is simple, but it's hard to master.",
             "developer": "Dylan",
